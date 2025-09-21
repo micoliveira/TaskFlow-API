@@ -34,3 +34,12 @@ A API estará disponível em `http://localhost:3000`.
 ## Teste dos Endpoints
 
 Você pode usar ferramentas como o [Postman](https://www.postman.com/) ou [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) para testar os endpoints.
+
+Próximos Passos e Melhorias Futuras
+Este projeto serve como uma base sólida. As próximas etapas planejadas para aprimorar a API incluem:
+
+Persistência de Dados: Substituir o armazenamento em memória por um banco de dados real, como MongoDB, para garantir que as tarefas sejam salvas permanentemente.
+
+Interface do Usuário (Front-end): Construir uma aplicação front-end, utilizando um framework como o React, para permitir que os usuários interajam com a API de forma visual e intuitiva.
+
+Testes Automatizados: Adicionar testes de unidade e de integração para garantir a estabilidade e o bom funcionamento de todos os endpoints.
